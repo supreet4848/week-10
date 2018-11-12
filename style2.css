@@ -1,0 +1,26 @@
+div{
+    width:100%;
+    height: 300px;
+}
+.img {
+    background-image:url("s.jpg")
+    
+
+ }
+.red{
+    position: absolute;
+    background-image:url("lion.jpg");
+    left: 0px;
+    top: 600px;
+}
+.blue{
+    opacity: 0.3;
+    background-color:blue;
+    position: absolute;
+    left:0px;
+    top:600px;
+}
+p{
+    color:blue;
+    font-size:40px;
+}
